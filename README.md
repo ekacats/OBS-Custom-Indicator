@@ -1,6 +1,9 @@
 # OBS-Custom-Indicator
 Display on-screen indicators for recording and live streaming status.
 
+!["Record Started Red"](bin/image/record_started_red.png)!["Stream Started Green"](bin/image/stream_started_green.png)
+
+!["OBS Scripts"](bin/image/OBS_Scripts.png)
 
 ## Dependencies
 This software is designed to run on Windows and relies on the following dependencies:
