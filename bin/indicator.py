@@ -6,7 +6,6 @@ from datetime import datetime, timedelta
 from enum import Enum, IntEnum, auto, unique
 from logging import getLogger
 from pathlib import Path
-from struct import unpack
 import tkinter as tk
 
 
